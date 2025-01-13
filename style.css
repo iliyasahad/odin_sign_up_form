@@ -1,3 +1,7 @@
-h2 {
-    color: blue;
+:root {
+    box-sizing: border-box;
+}
+
+.section-container {
+    display: flex;
 }

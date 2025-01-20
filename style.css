@@ -14,3 +14,8 @@
 .section-container {
     display: flex;
 }
+
+.form-container {
+    width: 60%;
+    padding: 30px;
+}

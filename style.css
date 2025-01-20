@@ -15,7 +15,9 @@
     display: flex;
 }
 
-.form-container {
+.intro-text {
     width: 60%;
     padding: 30px;
+    margin-top: 90px;
+    margin-bottom: 30px;
 }
